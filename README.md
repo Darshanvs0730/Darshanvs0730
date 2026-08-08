@@ -98,39 +98,75 @@
 <!-- 📇  ABOUT ME                                                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Puzzle%20Piece.png" width="30"/> Who I Am
+<div align="center">
 
-```rust
-// darshan.rs — compiled, not interpreted
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> &nbsp;Who I Am
 
-struct Engineer {
-    role:     &'static str,
-    stack:    Vec<&'static str>,
-    passion:  &'static str,
-    shipped:  u8,
-}
+<!-- Animated Developer GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
-impl Engineer {
-    fn new() -> Self {
-        Engineer {
-            role:    "AI Engineer · Full-Stack Architect",
-            stack:   vec!["Python", "FastAPI", "LangChain", "LangGraph",
-                          "React", "Next.js", "Spring Boot", "Streamlit"],
-            passion: "Building systems that think, pipelines that scale",
-            shipped: 5, // production-deployed projects
-        }
-    }
+<br/><br/>
 
-    fn philosophy(&self) -> &str {
-        "Ship fast. Ground in data. Never hallucinate."
-    }
-}
+<!-- Interactive System Boot — Click to Expand -->
+<details open>
+<summary><b>⚡ <code>$ darshan --init</code> &nbsp;→&nbsp; System Boot Sequence</b></summary>
 
-fn main() {
-    let darshan = Engineer::new();
-    darshan.build("the next intelligent system");
-}
+<br/>
+
+```js
+// ╭──────────────────────────────────────────────────────────╮
+// │  🟢  SYSTEM ONLINE — darshan.exe v2026.8                │
+// ╰──────────────────────────────────────────────────────────╯
+
+const darshan = {
+
+    "🧬 identity":  "AI Engineer · Full-Stack Architect",
+    "📍 location":  "India",
+    "🎓 education": "B.E. CSE · CGPA 8.39 · Jain College of Engineering",
+
+    "⚙️ core_stack": [
+        "Python",     "FastAPI",      "LangChain",   "LangGraph",
+        "React",      "Next.js",      "Spring Boot",  "Streamlit",
+        "Docker",     "AWS",          "PostgreSQL",   "Redis"
+    ],
+
+    "🧠 ai_skills": [
+        "Agentic AI",        "RAG Pipelines",     "Prompt Engineering",
+        "Multi-Agent Systems", "LLM APIs (Groq)",  "Vector Search (FAISS)"
+    ],
+
+    "🚀 shipped": {
+        "production_systems": 5,
+        "tests_passing":      "183+",
+        "hackathons":         "HCL Tech (Sole Backend Dev) · Srishti 2025"
+    },
+
+    "💡 philosophy": "Ship fast. Ground in data. Never hallucinate."
+};
+
+// ╭──────────────────────────────────────────────────────────╮
+// │  ✅  All systems operational. Ready to build.            │
+// ╰──────────────────────────────────────────────────────────╯
 ```
+
+</details>
+
+<br/>
+
+<!-- Quick Stats — Visual Badges -->
+<img src="https://img.shields.io/badge/🚀_5_Systems_Shipped-0F2027?style=flat-square&labelColor=0F2027"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🧪_183+_Tests-0F2027?style=flat-square&labelColor=0F2027"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🏆_Hackathon_Winner-0F2027?style=flat-square&labelColor=0F2027"/>
+&nbsp;
+<img src="https://img.shields.io/badge/☁️_AWS_Deployed-0F2027?style=flat-square&labelColor=0F2027"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🐳_Docker_Ready-0F2027?style=flat-square&labelColor=0F2027"/>
+
+</div>
+
+<br/>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
