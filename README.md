@@ -20,14 +20,21 @@
 <br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🚀  LIVE PORTFOLIO & RESUME                                                -->
+<!-- 🚀  THE PORTFOLIO EXPERIENCE                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- Action CTAs — Animated Badges -->
+<!-- Giant Animated Clickable Banner -->
 <a href="https://darshanvs-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-Explore_Now-A8EDEA?style=for-the-badge&labelColor=0F2027&color=203A43&logo=vercel&logoColor=A8EDEA"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=3000&pause=1000&color=0F2027&background=A8EDEA&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=120&lines=%E2%96%B6+ENTER+MY+INTERACTIVE+PORTFOLIO+%E2%97%80;%F0%9F%8C%90+darshanvs-portfolio.vercel.app;%E2%9C%A8+CLICK+TO+LAUNCH+EXPERIENCE+%E2%9C%A8" alt="Giant Portfolio Button" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+
+<br/><br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📄  INTERACTIVE RESUME                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<!-- Resume CTA — Animated Badge -->
 <a href="https://github.com/Darshanvs0730/Darshanvs0730/blob/main/DarshanVS_Aug8.pdf">
   <img src="https://img.shields.io/badge/📄_MY_RESUME-View_PDF-A8EDEA?style=for-the-badge&labelColor=0F2027&color=2C5364&logo=adobeacrobatreader&logoColor=A8EDEA"/>
 </a>
