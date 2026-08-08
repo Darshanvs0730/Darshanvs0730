@@ -20,12 +20,16 @@
 <br/><br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📄  INTERACTIVE RESUME                                                     -->
+<!-- 🚀  LIVE PORTFOLIO & RESUME                                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- Resume CTA — Animated Badge -->
+<!-- Action CTAs — Animated Badges -->
+<a href="https://darshanvs-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-Explore_Now-A8EDEA?style=for-the-badge&labelColor=0F2027&color=203A43&logo=vercel&logoColor=A8EDEA"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Darshanvs0730/Darshanvs0730/blob/main/DarshanVS_Aug8.pdf">
-  <img src="https://img.shields.io/badge/📄_View_My_Resume-Click_Here-A8EDEA?style=for-the-badge&labelColor=0F2027&color=2C5364&logo=adobeacrobatreader&logoColor=A8EDEA"/>
+  <img src="https://img.shields.io/badge/📄_MY_RESUME-View_PDF-A8EDEA?style=for-the-badge&labelColor=0F2027&color=2C5364&logo=adobeacrobatreader&logoColor=A8EDEA"/>
 </a>
 
 <br/><br/>
