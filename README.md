@@ -19,6 +19,74 @@
 
 <br/><br/>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📄  INTERACTIVE RESUME                                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<!-- Resume CTA — Animated Badge -->
+<a href="https://github.com/Darshanvs0730/Darshanvs0730/blob/main/DarshanVS_Aug8.pdf">
+  <img src="https://img.shields.io/badge/📄_View_My_Resume-Click_Here-A8EDEA?style=for-the-badge&labelColor=0F2027&color=2C5364&logo=adobeacrobatreader&logoColor=A8EDEA"/>
+</a>
+
+<br/><br/>
+
+<!-- Expandable Resume Preview — Terminal Style -->
+<details>
+<summary><b>🖥️ <code>cat resume.pdf | head -n 30</code> — Quick Preview</b></summary>
+
+<br/>
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   DARSHAN V S                                                        ║
+║   AI Engineer · Full-Stack Developer · LLM Architect                 ║
+║                                                                      ║
+╠══════════════════════════════════════════════════════════════════════╣
+║                                                                      ║
+║   📧  darshansunkanur999@gmail.com                                   ║
+║   📞  +91 9741232661                                                 ║
+║   🔗  linkedin.com/in/Darshan-V-S                                    ║
+║   🐙  github.com/Darshanvs0730                                      ║
+║                                                                      ║
+╠══════════════╦═══════════════════════════════════════════════════════╣
+║  CORE STACK  ║  Python · FastAPI · LangChain · LangGraph · React    ║
+║              ║  Spring Boot · Streamlit · Docker · AWS · PostgreSQL  ║
+╠══════════════╩═══════════════════════════════════════════════════════╣
+║                                                                      ║
+║  🚀  5 Production Systems Built & Deployed                           ║
+║  🧪  183+ Tests Passing (ComplianceAI alone)                         ║
+║  🏆  Sole Backend Dev @ HCL Tech Hackathon                           ║
+║  🎓  B.E. CSE · CGPA 8.39 · Jain College of Engineering             ║
+║                                                                      ║
+║  ─── KEY PROJECTS ──────────────────────────────────────────────     ║
+║  ▸ ComplianceAI      3-gate AI compliance verification engine        ║
+║  ▸ AptitudePro       Live quiz platform (Vercel + Render + Supa)     ║
+║  ▸ ClinicaLake       Medallion data lake with AI risk scoring        ║
+║  ▸ IT Ticket Engine  RAG-powered support resolution system           ║
+║  ▸ DevPulse          Developer productivity insight dashboard        ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+             ↓  Want the full version? Click below  ↓
+```
+
+<div align="center">
+
+<a href="https://github.com/Darshanvs0730/Darshanvs0730/blob/main/DarshanVS_Aug8.pdf">
+  <img src="https://img.shields.io/badge/📥_Download_Full_Resume_(PDF)-0F2027?style=for-the-badge&logo=adobeacrobatreader&logoColor=A8EDEA"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Darshanvs0730/Darshanvs0730/raw/main/DarshanVS_Aug8.pdf">
+  <img src="https://img.shields.io/badge/⬇️_Direct_Download-0F2027?style=for-the-badge&logo=download&logoColor=E0EAFC"/>
+</a>
+
+</div>
+
+</details>
+
+<br/>
+
 <!-- Neon Wave Separator -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/>
 
